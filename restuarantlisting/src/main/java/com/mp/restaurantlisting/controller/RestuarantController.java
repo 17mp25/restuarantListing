@@ -1,4 +1,4 @@
-package com.mp.restuarantlisting.controller;
+package com.mp.restaurantlisting.controller;
 
 import java.util.List;
 
@@ -9,8 +9,8 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.mp.restuarantlisting.dto.RestuarantDto;
-import com.mp.restuarantlisting.service.RestuarantService;
+import com.mp.restaurantlisting.dto.RestuarantDto;
+import com.mp.restaurantlisting.service.RestuarantService;
 
 @RestController
 @RequestMapping("/restuarant")

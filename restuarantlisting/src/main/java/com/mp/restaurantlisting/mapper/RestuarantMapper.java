@@ -1,10 +1,10 @@
-package com.mp.restuarantlisting.mapper;
+package com.mp.restaurantlisting.mapper;
 
 import org.mapstruct.Mapper;
 import org.mapstruct.factory.Mappers;
 
-import com.mp.restuarantlisting.dto.RestuarantDto;
-import com.mp.restuarantlisting.entity.Restuarant;
+import com.mp.restaurantlisting.dto.RestuarantDto;
+import com.mp.restaurantlisting.entity.Restuarant;
 
 @Mapper
 public interface RestuarantMapper {

@@ -1,4 +1,4 @@
-package com.mp.restuarantlisting.dto;
+package com.mp.restaurantlisting.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

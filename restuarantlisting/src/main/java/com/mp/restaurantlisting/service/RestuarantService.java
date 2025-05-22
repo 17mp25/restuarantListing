@@ -1,4 +1,4 @@
-package com.mp.restuarantlisting.service;
+package com.mp.restaurantlisting.service;
 
 import java.util.List;
 import java.util.stream.Collectors;
@@ -6,10 +6,10 @@ import java.util.stream.Collectors;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.mp.restuarantlisting.dto.RestuarantDto;
-import com.mp.restuarantlisting.entity.Restuarant;
-import com.mp.restuarantlisting.mapper.RestuarantMapper;
-import com.mp.restuarantlisting.repo.RestuarantRepo;
+import com.mp.restaurantlisting.dto.RestuarantDto;
+import com.mp.restaurantlisting.entity.Restuarant;
+import com.mp.restaurantlisting.mapper.RestuarantMapper;
+import com.mp.restaurantlisting.repo.RestuarantRepo;
 
 @Service
 public class RestuarantService {

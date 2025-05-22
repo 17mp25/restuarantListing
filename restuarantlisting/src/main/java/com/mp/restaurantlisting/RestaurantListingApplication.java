@@ -1,13 +1,14 @@
-package com.mp.restuarantlisting;
+package com.mp.restaurantlisting;
+
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class RestuarantListingApplication {
+public class RestaurantListingApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(RestuarantListingApplication.class, args);
+		SpringApplication.run(RestaurantListingApplication.class, args);
 	}
 
 }
